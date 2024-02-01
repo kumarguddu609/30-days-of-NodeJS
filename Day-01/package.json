@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "async": "^3.2.5",
+    "promise": "^8.3.0"
+  }
+}
